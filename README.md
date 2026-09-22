@@ -59,3 +59,7 @@ function nukeGmail() {
 
 ### Degoogle next
 Emptying mail != deleting address. To kill Gmail: Google Account -> Data & Privacy -> Delete Gmail service. Then remove IMAP/OAuth from your Linux mail client.
+
+
+#### Keywords
+delete all gmail at once, empty gmail inbox, bulk delete gmail, clear all mail, degoogle gmail
