@@ -55,4 +55,4 @@ function nukeGmail() {
 
 
 ### Degoogle next
-Emptying mail ≠ deleting address. To kill Gmail: Google Account -> Data & Privacy -> Delete Gmail service. Then remove IMAP/OAuth from your Linux mail client.
+Emptying mail != deleting address. To kill Gmail: Google Account -> Data & Privacy -> Delete Gmail service. Then remove IMAP/OAuth from your Linux mail client.
