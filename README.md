@@ -1,3 +1,6 @@
+# Gmail-nuke-script — Delete All Gmail at Once (Empty All Mail via Apps Script)
+> Bulk-delete every Gmail thread for degoogling: Inbox + All Mail + Sent + Archived.
+
 ## ⚠️ WARNING: Deletes EVERYTHING
 This moves **all** Gmail to Trash: Inbox + All Mail + Sent + Archived + Spam.
 
