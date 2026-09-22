@@ -1,4 +1,3 @@
-![Delete Gmail](image.png)
 # Gmail-nuke-script Delete All Gmail at Once (Empty All Mail via Apps Script)
 > Bulk empty your Gmail inbox, All Mail, Sent & Spam with one Google Apps Script. Open-source tool to clear all emails for degoogling and privacy.
 
