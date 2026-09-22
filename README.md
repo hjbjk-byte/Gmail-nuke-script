@@ -26,7 +26,7 @@ Bad: Apps Script times out after ~6 min, unverified-app screen, must empty Trash
 ## Steps
 1. Backup: Takeout -> Mail only -> download + open a few `.mbox` files to verify.
 2. Go to https://script.google.com/ -> New project
-3. Replace `Code.gs` with:
+3. Replace `code.gs` with:
 
 ```javascript
 function nukeGmail() {
